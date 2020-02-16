@@ -20,7 +20,7 @@
 > [Glitch Tutorial](https://youtu.be/Ey5R1IdV9FA)
 
 ## Step 1
-> [Download the needed files here](dbm_dashboard.zip). After you have downloaded the files, unzip them and paste them into your bots extensions folder. <br> 
+> [Download the needed files here](https://github.com/generalwrex/extensions-1/raw/master/extensions/dbm_dashboard/dbm_dashboard.zip). After you have downloaded the files, unzip them and paste them into your bots extensions folder. <br> 
 
 ## Step 2 
 > Open DBM and navigate to <code>Extensions < DBM Dashboard</code> Place your ID in the field where it says <b>Owner ID</b>.
